@@ -12,4 +12,6 @@ WORDS = FHANDLER.read()
 
 FHANDLER.close()
 
-print WORDS.split(), len(WORDS.split())
+WORD = len(WORDS.split()) 
+
+WORDCT = 566316
