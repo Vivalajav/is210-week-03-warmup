@@ -8,7 +8,7 @@ import fractions
 
 INTVAL = 1
 
-FLOATVAL = decimal.Decimal('0.1')
+FLOATVAL = 0.1
 
 DECVAL = decimal.Decimal('0.1')
 
