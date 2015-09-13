@@ -6,4 +6,3 @@ import task_03
 
 
 KLAXON = 'Danger Danger Danger Danger Danger'
-
