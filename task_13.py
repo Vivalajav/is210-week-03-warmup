@@ -19,4 +19,4 @@ print task_12.FLOATVAL != task_12.DECVAL
 
 FRAC_DEC_EQUAL = False
 
-DEC_FLOAT_INEQUAL = False
+DEC_FLOAT_INEQUAL = True
