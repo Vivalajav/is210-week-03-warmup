@@ -15,6 +15,10 @@ NERVOUS_AS = """
 
 
 
-
-
 """
+
+NERVOUS_AS = NERVOUS_AS.strip()
+
+NERVOUS_AS = NERVOUS_AS.lstrip('/').rstrip(',')
+
+NERVOUS_AS = A long-tailed cat in a room full of rockin' chairs
